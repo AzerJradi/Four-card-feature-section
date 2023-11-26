@@ -1,0 +1,111 @@
+.firstDiv {
+    margin-top: 50px;
+}
+.p {
+    font-size: 40px;
+    font-family: monospace,Monaco;
+    margin-left: 30%;
+}
+.a {
+    font-size: 50px;
+    letter-spacing: 1.8px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 30%;
+    margin-top: -40px;
+}
+.z {
+    color: gray;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 28.5%;
+    margin-top: -30px;
+    letter-spacing: 1px;
+}
+.e {
+    color: gray;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35%;
+    margin-top: -15px;
+}
+.secondDiv {
+    background-color: whitesmoke;
+    width: 30%;
+    height: 300px;
+    border-radius: 4px;
+    border-top: 4px solid #8ef6e4 ;
+    margin-left: 3%;
+    margin-top: -100px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.5);
+}
+.title {
+    font-family:sans-serif,Arial, Helvetica, sans-serif ;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.des {
+    color: gray;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+.secondImg {
+    margin-top: 10%;
+    margin-left: 70%;
+}
+.thirdDiv {
+    background-color: whitesmoke;
+    width: 30%;
+    height: 300px;
+    border-radius: 4px;
+    border-top: 4px solid red;
+    margin-left: 35%;
+    margin-top: 100px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.5);
+}
+.thirdImg {
+    margin-top: 10%;
+    margin-left: 70%;
+}
+.fourthDiv {
+    background-color: whitesmoke;
+    width: 30%;
+    height: 300px;
+    border-radius: 4px;
+    border-top: 4px solid #ffc93c;
+    margin-left: 35%;
+    margin-top: -150px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.5);
+}
+.fourthImg {
+    margin-top: 10%;
+    margin-left: 70%;
+}
+.fifthDiv {
+    background-color: whitesmoke;
+    width: 30%;
+    height: 300px;
+    border-radius: 4px;
+    border-top: 4px solid #00bbf0;
+    margin-left: 67%;
+    margin-top: -300px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.5);
+}
+.fifthImg {
+    margin-top: 10%;
+    margin-left: 70%;
+}
+.attribution{
+    margin-left: 30%;
+    font-size: 24px;
+    margin-top: 100px;
+}
